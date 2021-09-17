@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.number {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    font-weight: 800;
+    color: #4196a4;
+}
+
+.topic {
+    font-weight: 700;
+}
+
+.body {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.text {
+    max-width: 250px;
+}

@@ -6,13 +6,12 @@ export default function Header() {
         <div className = {styles.headerBackground}>
             <div className = {styles.container}>
                 <div className = {styles.brand}>HELSINGIN SANOMAT</div>
-                <div>Etusivu</div>
                 <div>Uutiset</div>
                 <div>Lehdet</div>
-                <div>Asiakaspalvelu</div>
-                <div>Tilaa</div>
-                Kirjaudu
-                Valikko
+                <div className = {styles.tilaa}><div >Tilaa</div></div>
+                <div>Kirjaudu</div>
+                <div>Hae</div> 
+                <div>Valikko</div>
             </div>
         </div>
     )

@@ -1,0 +1,11 @@
+.container {
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.topic {
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 30px;
+    font-weight: 700;
+}

@@ -1,0 +1,22 @@
+.mainBody {
+  display: flex;
+  justify-content: center;
+  background-color: lightgray;
+}
+
+.notifications {
+  margin-top: 20px;
+}
+
+.innerBody {
+  display: flex;
+}
+
+.mainNews {
+  
+}
+
+.side {
+  margin-top: 20px;
+  margin-left: 20px;
+}

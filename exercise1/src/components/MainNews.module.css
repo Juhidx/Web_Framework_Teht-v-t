@@ -1,0 +1,45 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+.picture {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 600px;
+    height: auto;
+}
+
+.body {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    max-width: 600px;
+}
+
+.header {
+    font-size: 25px;
+    font-weight: 700;
+    color: #00b8e0;
+}
+
+.inlineBlock {
+    font-size: 25px;
+    color: #00b8e0;
+}
+
+.text {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.topic {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}

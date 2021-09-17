@@ -1,0 +1,14 @@
+.headerBackground {
+    background-color: white;
+}
+
+.container {
+    display: flex;
+    width: 70%;
+    height: 50px;
+    align-items: center;
+    margin-left: 155px;
+    margin-right: auto;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
