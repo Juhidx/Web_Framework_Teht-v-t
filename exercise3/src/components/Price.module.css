@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.price {
+
+}
+
+.offer {
+    color: gray;
+    margin-left: 10px;
+    font-size: 13px;
+    text-decoration: line-through;
+    margin-top: 3px;
+}

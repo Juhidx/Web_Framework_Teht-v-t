@@ -1,0 +1,10 @@
+.container {
+    color: gray;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.offerDate {
+    color: rgb(71, 70, 70);
+    font-weight: 600;
+}

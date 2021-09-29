@@ -73,7 +73,7 @@ class App extends React.Component {
       <div className = {styles.buttons}>
         <button onClick = { this.addCarrots }>Add Carrots!</button>
         <button onClick = { this.addStrawberries }>Add Strawberries!</button>
-        <button onClick = { this. addYogurt }>Add Yogurt!</button>
+        <button onClick = { this.addYogurt }>Add Yogurt!</button>
         <button onClick = { this.addBeer }>Add Beer!</button>
       </div>
     </div>
