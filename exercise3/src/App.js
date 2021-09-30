@@ -58,7 +58,7 @@ export default class App extends Component {
     return (
       <div className={styles.container}>
         <div>
-          <input className={styles.formField} type="text" 
+          Search <input className={styles.formField} type="text" 
             value={this.state.search} onChange={this.UpdateSearch}/>
         </div> 
         <div className={styles.product}>
