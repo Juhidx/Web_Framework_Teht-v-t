@@ -1,0 +1,45 @@
+.container {
+    margin-top: 20px;
+}
+
+.header {
+    
+}
+
+.productinfo {
+    overflow: hidden;
+    max-width: 230px;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+
+.imageContainer {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+
+.img {
+    max-height: 100%;
+    max-height: 100%;
+}
+
+.rating {
+    display: flex;  
+    color: #007185; 
+    text-decoration: underline;
+}
+
+.ratingIMG {
+    width: 20%;
+    height: 20%;
+}
+
+.price {
+    margin-top: 5px;
+}
+
+.bestSeller {
+    width: 115px;
+}

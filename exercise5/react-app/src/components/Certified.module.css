@@ -1,0 +1,10 @@
+.container {
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 480;
+    max-width: 200px;
+}
+
+.tag {
+    color: #ff8400;
+}

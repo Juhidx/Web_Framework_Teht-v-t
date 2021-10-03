@@ -1,0 +1,12 @@
+.container {
+  margin-left: 100px;
+}
+
+.formField {
+  max-width: 100px;
+}
+
+.product {
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
+}
